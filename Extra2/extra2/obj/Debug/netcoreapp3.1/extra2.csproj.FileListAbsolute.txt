@@ -1,0 +1,13 @@
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\bin\Debug\netcoreapp3.1\extra2.exe
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\bin\Debug\netcoreapp3.1\extra2.deps.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\bin\Debug\netcoreapp3.1\extra2.runtimeconfig.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\bin\Debug\netcoreapp3.1\extra2.runtimeconfig.dev.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\bin\Debug\netcoreapp3.1\extra2.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\bin\Debug\netcoreapp3.1\extra2.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\obj\Debug\netcoreapp3.1\extra2.csprojAssemblyReference.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\obj\Debug\netcoreapp3.1\extra2.AssemblyInfoInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\obj\Debug\netcoreapp3.1\extra2.AssemblyInfo.cs
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\obj\Debug\netcoreapp3.1\extra2.csproj.CoreCompileInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\obj\Debug\netcoreapp3.1\extra2.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\obj\Debug\netcoreapp3.1\extra2.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\extra2\extra2\obj\Debug\netcoreapp3.1\extra2.genruntimeconfig.cache
