@@ -1,0 +1,13 @@
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\obj\Debug\netcoreapp3.1\Pag146Ej5.csprojAssemblyReference.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\obj\Debug\netcoreapp3.1\Pag146Ej5.AssemblyInfoInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\obj\Debug\netcoreapp3.1\Pag146Ej5.AssemblyInfo.cs
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\obj\Debug\netcoreapp3.1\Pag146Ej5.csproj.CoreCompileInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\bin\Debug\netcoreapp3.1\Pag146Ej5.exe
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\bin\Debug\netcoreapp3.1\Pag146Ej5.deps.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\bin\Debug\netcoreapp3.1\Pag146Ej5.runtimeconfig.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\bin\Debug\netcoreapp3.1\Pag146Ej5.runtimeconfig.dev.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\bin\Debug\netcoreapp3.1\Pag146Ej5.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\bin\Debug\netcoreapp3.1\Pag146Ej5.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\obj\Debug\netcoreapp3.1\Pag146Ej5.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\obj\Debug\netcoreapp3.1\Pag146Ej5.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea3\Pag146Ej5\Pag146Ej5\obj\Debug\netcoreapp3.1\Pag146Ej5.genruntimeconfig.cache
